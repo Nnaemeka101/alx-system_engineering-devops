@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'conditions' | rev 
+echo 'Reverse' | rev 
